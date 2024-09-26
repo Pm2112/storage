@@ -5,7 +5,8 @@
     "language" : "English",
     "bible_url" : "https://bibleappdata.s3.amazonaws.com/BibleData/English+KJV.zip",
     "bible_path" : "",
-    "decompress" : "false"
+    "decompress" : "false",
+    "is_selected" : "true"
   },
   {
     "bible_id" : "2",
@@ -13,6 +14,7 @@
     "language" : "Albanian",
     "bible_url" : "https://bibleappdata.s3.amazonaws.com/BibleData/Albanian+Bible.zip",
     "bible_path" : "",
-    "decompress" : "false"
+    "decompress" : "false",
+    "is_selected" : "false"
   }
 ]
