@@ -1,0 +1,18 @@
+[
+  {
+    "bible_id" : "1",
+    "bible_lang_name" : "English KJV",
+    "language" : "English",
+    "bible_url" : "https://bibleappdata.s3.amazonaws.com/BibleData/English+KJV.zip",
+    "bible_path" : "",
+    "decompress" : "false"
+  },
+  {
+    "bible_id" : "2",
+    "bible_lang_name" : "Albanian Bible",
+    "language" : "Albanian",
+    "bible_url" : "https://bibleappdata.s3.amazonaws.com/BibleData/Albanian+Bible.zip",
+    "bible_path" : "",
+    "decompress" : "false"
+  }
+]
