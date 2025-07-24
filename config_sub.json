@@ -1,16 +1,26 @@
 [
   {
-    "android": [
-      "Sub_1": true,
-      "Sub_2": false,
-      "Sub_3": false,
-      "Sub_4": false
-    ],
-    "ios": [
-      "Sub_1": true,
-      "Sub_2": false,
-      "Sub_3": false,
-      "Sub_4": false
-    ]
+    "android": {
+      "SubOnboard": {
+        "SubB1": true,
+        "SubB2": false,
+        "SubB3": false
+      },
+      "SubInApp": {
+        "SubA1": true,
+        "SubB2": false
+      }
+    },
+    "ios": {
+      "SubOnboard": {
+        "SubB1": true,
+        "SubB2": false,
+        "SubB3": false
+      },
+      "SubInApp": {
+        "SubA1": true,
+        "SubB2": false
+      }
+    }
   }
 ]
