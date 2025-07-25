@@ -13,8 +13,8 @@
     },
     "ios": {
       "SubOnboard": {
-        "SubB1": false,
-        "SubB2": true,
+        "SubB1": true,
+        "SubB2": false,
         "SubB3": false
       },
       "SubInApp": {
