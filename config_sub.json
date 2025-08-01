@@ -22,8 +22,8 @@
         "SubB3": false
       },
       "SubInApp": {
-        "SubA": false,
-        "SubB1": true,
+        "SubA": true,
+        "SubB1": false,
         "SubB2": false,
         "SubB3": false
       }
