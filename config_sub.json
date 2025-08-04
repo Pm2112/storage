@@ -18,8 +18,8 @@
       "SubOnboard": {
         "SubA": false,
         "SubB1": false,
-        "SubB2": true,
-        "SubB3": false
+        "SubB2": false,
+        "SubB3": true
       },
       "SubInApp": {
         "SubA": true,
